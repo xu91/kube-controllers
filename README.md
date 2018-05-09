@@ -1,2 +1,2 @@
 # kube-controllers
-quay.io/calico/kube-controllers:v1.0.4
+quay.io/calico/kube-controllers:v2.6.2
